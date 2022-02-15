@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wagak", "wagak.csproj", "{1B731F74-ECDC-4C8E-9A83-8E6F7D757C29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wagakTests", "..\wagakTests\wagakTests.csproj", "{4C88B73B-A57F-4BDC-8E7F-9B584CD66842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B731F74-ECDC-4C8E-9A83-8E6F7D757C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B731F74-ECDC-4C8E-9A83-8E6F7D757C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B731F74-ECDC-4C8E-9A83-8E6F7D757C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B731F74-ECDC-4C8E-9A83-8E6F7D757C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C88B73B-A57F-4BDC-8E7F-9B584CD66842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C88B73B-A57F-4BDC-8E7F-9B584CD66842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C88B73B-A57F-4BDC-8E7F-9B584CD66842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C88B73B-A57F-4BDC-8E7F-9B584CD66842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D082F8-EC1F-4A96-9BE1-F8A60EEAFAEA}
+	EndGlobalSection
+EndGlobal
