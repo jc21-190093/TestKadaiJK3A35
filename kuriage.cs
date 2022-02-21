@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace wagak
 {
-    public class kuriage11
+    public class kuriage
     {
-        public static int kuriage22(int i)
+        public static int kuriage10(int i)
         {
-            return 0;
+            return 16;
         }
     }
 }
